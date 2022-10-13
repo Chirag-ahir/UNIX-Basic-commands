@@ -1,0 +1,26 @@
+clear - to clear screen 
+ls - to see the file and current directory 
+ls -l - give details of files in directory 
+mkdir - to create new directory 
+cd - to change directory
+cd .. - to go into parant directory 
+pwd - to see the path of current working directory 
+man cd(command) - to see the manual page for any command
+rm (file name) - to remove file 
+rmdir (directory name) - to remove directory
+history - to see past commands which we executed 
+chmode - to change permission of file
+echo "your msg" - to print message 
+shutdown - to shutdown machine 
+
+touch (filename) - to create a new file 
+echo "hello there" > day1.txt - to add content in file1
+echo "hi there" > day2.txt - to add content in file2touch 
+
+cat (filename) - display content of file
+cat file1 file2 - display content of both files
+cat file1 > file2 - replace file1 into file2
+cat file1 >> file2 - merge content of both files
+exit - to close terminal
+
+sudo - to act as a superuser
